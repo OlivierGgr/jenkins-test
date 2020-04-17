@@ -1,0 +1,26 @@
+{
+  "name": "jenkins-ci",
+  "version": "1.0.0",
+  "description": "henlo jenkins test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlivierGgr/jenkins-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlivierGgr/jenkins-test/issues"
+  },
+  "homepage": "https://github.com/OlivierGgr/jenkins-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1",
+    "supertest": "^4.0.2"
+  }
+}
